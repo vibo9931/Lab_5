@@ -1,0 +1,18 @@
+Lab 5
+Partners: Victor Boynton and Max Soong
+
+1.) N/A
+
+2.) N/A
+
+3.) N/A
+
+4.) N/A
+
+5.) git clone https://github.com/vibo9931/Lab_5.git
+
+6.) git commit -m "v0.0.1"
+
+7.) git push origin master
+
+8.) 
