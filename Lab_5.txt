@@ -11,4 +11,4 @@ Partners: Victor Boynton and Max Soong
 
 5.) git clone https://github.com/vibo9931/Lab_5.git
 
-6.) 
+6.) This is being edited
